@@ -2,6 +2,7 @@
   "name": "vue-videojs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://qbjgknick.github.io/vue-video/",
   "scripts": {
     "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
